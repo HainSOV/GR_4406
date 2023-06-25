@@ -41,26 +41,29 @@ git config --global user.email "your.email@example.com"
 ```bash
 Пример: `git add index.html`.
 ```
-3. `git commit -m "Commit message"` - создает новый коммит с сообщением о коммите.
+3. `git log` - журнал событий 
+
+4. `git commit -m "Commit message"` - создает новый коммит с сообщением о коммите.
 ```bash
 Пример: `git commit -m "Добавлены стили CSS"`.
 ```
+4. `git diff` - показать разницу между версиями 
 
-4. `git push` - отправляет ваши коммиты в удаленный репозиторий. 
+5. `git push` - отправляет ваши коммиты в удаленный репозиторий. 
 ```bash
 Пример: `git push origin main`.
 ```
-5. `git pull` - получает и объединяет изменения из удаленного репозитория в вашей локальной копии. 
+6. `git pull` - получает и объединяет изменения из удаленного репозитория в вашей локальной копии. 
 ```bash
 Пример: `git pull origin main`.
 ```
-6. `git branch` - показывает список веток в репозитории.
+7. `git branch` - показывает список веток в репозитории.
 
-7. `git checkout <branch>` - переключается на указанную ветку. 
+8. `git checkout <branch>` - переключается на указанную ветку. 
 ```bash
 Пример: `git checkout feature-branch`.
 ```
-8. `git merge <branch>` - объединяет указанную ветку в текущую ветку. 
+9. `git merge <branch>` - объединяет указанную ветку в текущую ветку. 
 ```bash
 Пример: `git merge feature-branch`.
 ```
