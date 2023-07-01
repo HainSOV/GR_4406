@@ -73,6 +73,8 @@ git config --global user.email "your.email@example.com"
 ```bash
 Пример: `git merge feature-branch`.
 ```
+![все сломалось](%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80.png)
+
 # Пример работы с Git
 
 1. Создайте новый репозиторий с помощью команды `git init`.
