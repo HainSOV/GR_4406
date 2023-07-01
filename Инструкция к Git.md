@@ -45,6 +45,8 @@ git config --global user.email "your.email@example.com"
 ```
 3. `git log` - журнал событий 
 
+    3.1. `git log --graph` - журнал событий графический 
+
 4. `git commit -m "Commit message"` - создает новый коммит с сообщением о коммите.
 ```bash
 Пример: `git commit -m "Добавлены стили CSS"`.
