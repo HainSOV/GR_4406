@@ -61,6 +61,10 @@ git config --global user.email "your.email@example.com"
 ```
 7. `git branch` - показывает список веток в репозитории.
 
+    7.1. `gti branch name` - добавить новую ветку 
+
+    7.2. `git branch -d name` - удавлить ветку    
+
 8. `git checkout <branch>` - переключается на указанную ветку. 
 ```bash
 Пример: `git checkout feature-branch`.
