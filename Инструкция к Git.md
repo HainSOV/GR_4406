@@ -73,6 +73,7 @@ git config --global user.email "your.email@example.com"
 ```
 9. `git merge <branch>` - объединяет указанную ветку в текущую ветку. 
 ```bash
+Бугага конфлик
 Пример: `git merge feature-branch`.
 ```
 ![все сломалось](%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80.png)
